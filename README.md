@@ -1,2 +1,12 @@
- ### Hi there 👋 I'M KIM GALICIA, I can be your network administrator and system administrator, i also handle databases and also do backend and frontend, i also do bash scripting.
+ ## Hi there 👋 I'M KIM GALICIA
 
+ Computer Engineering student<br/>
+ Full stack Developer at CG3 Tech Inc.<br/>
+ I also:
+  - Manage/Structure Databases
+  - Manage network
+  - Do bash scripting
+
+Follow me on:
+ - [Facebook](https://www.facebook.com/kim404uni/)
+ - [Instagram](https://www.instagram.com/ticktoews/)
