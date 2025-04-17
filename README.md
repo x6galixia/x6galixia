@@ -1,4 +1,4 @@
- ## Hi there 👋 I'M KIM GALICIA
+ ## Hi there 👋 I'm Kim Galicia
 
  Computer Engineering student<br/>
  Full stack Developer at CG3 Tech Inc.<br/>
